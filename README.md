@@ -23,3 +23,5 @@ npm install 'packageName'
 node 'jsfilename' 
 
 npm start - runs start script in package.json
+
+rm -rf .git is to remove directory 
